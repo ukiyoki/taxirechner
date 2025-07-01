@@ -18,7 +18,3 @@ Geplant sind Features wie:
 - Benutzeroberfläche  
 - Speicherung der Daten
 - Statistiken
-
----
-
-© 2025 Elif Sari
